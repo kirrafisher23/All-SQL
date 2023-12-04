@@ -1,7 +1,7 @@
 # All-SQL
 the repository of my SQL code (old projects from class and personal project endeavour)
 
-First intial project was the desgin of a entity relationship diagram (ERD) which was made via draw.io. I didnt find it imoprtant to include.
+First initial project was the desgin of a entity relationship diagram (ERD) which was made via draw.io. I didnt find it imoprtant to include.
 
 Seond project was creating a schema and inserting data into tables upon professors instructions.
 
